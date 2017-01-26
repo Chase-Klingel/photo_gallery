@@ -142,7 +142,7 @@ button:hover > .overlay {
   }
 }
 
-@media (max-width: 902px) {
+@media (max-width: 908px) {
   .coffee-img {
     height: 420px;
   }
@@ -176,7 +176,8 @@ button:hover > .overlay {
     text-align: center;
   }
 
-  p {
+  p,
+  .adjust-margin {
     margin: 0 auto;
     font-size: 14px;
     text-align: center;
