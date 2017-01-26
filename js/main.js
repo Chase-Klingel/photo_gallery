@@ -10,7 +10,6 @@ $('.one').click(function() {
   TweenMax.to('.three', 1.3, {
     zIndex: 1, ease: Power4.easeInOut
   });
-
 });
 
 $('.two').click(function(e) {
